@@ -11,6 +11,10 @@ hr {
   border-width: 5px;
   width:10%;
 }
+TableHead {
+  text-color: black;
+  text-style: bold;
+}
 .btn {
   position:relative;
   background: #11cdd4;
